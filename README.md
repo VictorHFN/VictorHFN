@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Victor Hugo Nascimento👋
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Desenvolvimento de Sistemas 3/5
+-  Apaixonado por tecnologia
+-  Técnico em Analise e Desenvolvimento de Sistemas AMS 
+-  Graduação Analise e Desenvolvimento de Sistemas AMS 1/2
 
 
