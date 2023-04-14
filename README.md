@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Hugo Nascimento👋
 
--  Apaixonado por tecnologia
+-  Me especializando em backend, obtendo muitos conhecimentos a cada dia e sempre buscando uma melhora profissional.
 -  Técnico em Analise e Desenvolvimento de Sistemas AMS 
 -  Graduação Analise e Desenvolvimento de Sistemas AMS 1/2
 
