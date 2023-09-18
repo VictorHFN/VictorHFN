@@ -10,14 +10,13 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhfn&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Js logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+ <h2 align="center">Skills </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,js,css,html,azure,figma,github,git,mongodb,nodejs,react,postman" />
+  </a>
+</p>
 ##
  
 <div> 
