@@ -4,7 +4,7 @@
 
 -  Me especializando em backend, obtendo muitos conhecimentos a cada dia e sempre buscando uma melhora profissional.
 -  Técnico em Analise e Desenvolvimento de Sistemas AMS 
--  Graduação Analise e Desenvolvimento de Sistemas AMS 1/2
+-  Graduação Analise e Desenvolvimento de Sistemas AMS 2/2
 
 <div align="center">
   <a href="https://github.com/victorhfn/">
